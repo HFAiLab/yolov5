@@ -6,8 +6,6 @@
 
 ![](./data/images/result.jpg "不同 batch_size 下每 Epoch 的耗时")
 
-+ 技术博客：
-
 ## Requirements
 
 - [hfai](https://doc.hfai.high-flyer.cn/index.html)
